@@ -1,6 +1,5 @@
-package Collections_HandsOn;
+package Collections_HandsOn.UtilityClasses_Iterators;
 
-import java.util.Comparator;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.ListIterator;

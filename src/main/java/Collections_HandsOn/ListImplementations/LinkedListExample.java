@@ -1,4 +1,4 @@
-package Collections_HandsOn;
+package Collections_HandsOn.ListImplementations;
 
 import java.util.Iterator;
 import java.util.LinkedList;

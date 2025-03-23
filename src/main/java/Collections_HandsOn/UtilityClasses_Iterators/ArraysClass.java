@@ -1,4 +1,4 @@
-package Collections_HandsOn;
+package Collections_HandsOn.UtilityClasses_Iterators;
 
 import java.util.Arrays;
 import java.util.List;

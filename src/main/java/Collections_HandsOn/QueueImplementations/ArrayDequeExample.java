@@ -1,4 +1,4 @@
-package Collections_HandsOn;
+package Collections_HandsOn.QueueImplementations;
 
 import java.util.ArrayDeque;
 
