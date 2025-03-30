@@ -1,4 +1,4 @@
-package Multithreading_Concurrency.Creating_Managing_Threads;
+package Multithreading_Concurrency.CreatingManagingThreads;
 
 public class MyThread extends  Thread{
     public void run(){
